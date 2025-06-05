@@ -1,4 +1,4 @@
-package br.com.atividade.operacoes;
+package br.com.atividade1.operacoes;
 
 public class Subtracao extends OperacaoMatematica {
     @Override
